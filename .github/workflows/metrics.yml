@@ -53,12 +53,8 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: 315jbndkzwcv72mopxqpdxfbcluy
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
           plugin_projects: yes
           plugin_projects_limit: 4
-
           plugin_tweets: yes
           plugin_tweets_limit: 2
-          plugin_tweets_user: Kyniant
+          plugin_tweets_user: .user.twitter
